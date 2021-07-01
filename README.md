@@ -1,5 +1,3 @@
-# install_odoo14.sh
-
 # Instalación y Configuración Inicial
 
 
